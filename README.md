@@ -1,5 +1,5 @@
 # Dynamic_zoom_camera
 
-# Usage
+Usage
 
-# Add to Camera Component.
+Add to Camera Component.
