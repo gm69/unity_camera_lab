@@ -2,4 +2,5 @@
 
 Usage
 
-Add to Camera Component.
+Add to Camera
+Camera projection: orthographic
