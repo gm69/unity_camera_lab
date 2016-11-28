@@ -1,7 +1,9 @@
-# Dynamic_zoom_camera
+# Usage
 
-Usage
+#DynamicZoomCamera.cs
 
 Add to Camera
 
 Camera projection: orthographic
+
+##################################
