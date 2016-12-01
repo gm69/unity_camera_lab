@@ -1,10 +1,15 @@
 # Usage
 
-####DynamicZoomCamera.cs
+####./SuperSmashCamera/DynamicZoomCamera.cs
 
 Add to Camera
 
 Camera projection: orthographic
+
+
+———————————————————
+
+###./MovableAreaRestrictedCamera/
 
 
 ———————————————————
