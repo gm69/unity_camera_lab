@@ -14,4 +14,4 @@ Camera projection: orthographic
 
 ———————————————————
 
-**I'll add more script !!**
+**I'll continue working on this project.**
